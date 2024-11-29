@@ -1,0 +1,16 @@
+ header {
+ 
+    background-color: aqua;
+ } 
+  header ul>li{
+
+    color: C6A857;
+  }   
+  li > a {
+
+    color: C6A857;
+  } 
+ header :last-child {
+
+    color: C6A857;
+ }
