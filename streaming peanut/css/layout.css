@@ -41,6 +41,7 @@ flex-direction: row;
       border: 1px solid;
       border-radius:  10px; ;
        width:18% ;
+      
        
      }
      
@@ -53,9 +54,9 @@ flex-direction: row;
    main {
 
       display: grid;
-      justify-content: space-around;
-      justify-items: start;
-      grid-template-rows: 62px;
+      
+      
+      grid-template-rows: auto auto ;
       gap: 20px;
    }
    footer{
