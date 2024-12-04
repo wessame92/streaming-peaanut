@@ -64,4 +64,23 @@ position :relative;
 bottom: 0px;
 
    }
+    nav button{
+background-color: AD9658;
+height: 42px; ;width: 111px; 
+border-radius: 12px;
    
+   }
+    .MONKEY { 
+
+      display: grid;
+      grid-auto-flow: column;
+      justify-content: space-around;
+      align-items: center;
+    }
+    .recommandation img {
+
+      height: 300px;
+      border: 1px solid;
+      border-radius: 10px;
+     }
+     
